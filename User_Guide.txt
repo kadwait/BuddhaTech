@@ -1,5 +1,0 @@
-1. Open Xampp
-2. Import database.
-3. Unzip the given folder and place it inside htdocs of Xampp folder
-4. Open the given folder in vs code
-5. Open new terminal and write 'npm start' in vscode.
